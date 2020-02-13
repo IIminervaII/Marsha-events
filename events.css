@@ -124,9 +124,9 @@ body {
   font-family: "Montserrat", sans-serif;
   margin: 0;
   color: #0d0d0d;
-  background-color: #0026ff;
-  background-image: -webkit-gradient(linear, left bottom, right top, from(#006eff), to(#06d5f0));
-  background-image: linear-gradient(to top right, #006eff, #06d5f0);
+  background-color: #7700ff;
+  background-image: -webkit-gradient(linear, left bottom, right top, from(#7700ff), to(#fd61fd));
+  background-image: linear-gradient(to top right, #7700ff, #fd61fd);
 }
 
 header {
@@ -241,7 +241,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  color: #2892d7;
+  color: #7700ff;
 }
 
 @-webkit-keyframes nav-bg {
@@ -336,7 +336,7 @@ main .container .card .face {
 
 main .container .card .face1 {
   position: relative;
-  background-color: #72c7ff;
+  background-color: #ba81fb;
   color: #000;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -427,6 +427,6 @@ main .container .card:hover .face2 {
 }
 
 .selected {
-  color: #2892d7;
+  color: #7700ff;
 }
 /*# sourceMappingURL=events.css.map */
